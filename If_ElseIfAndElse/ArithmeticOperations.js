@@ -11,20 +11,20 @@ let fun4=a*b+c;
 if(fun1>fun2&&fun1>fun3&&fun1>fun4){
     console.log("fun1 :"+fun1+" is maximum");
 }else if(fun2>fun3&&fun2>fun4){
-    console.log("fun2 : "+fun2+" is maximum")
+    console.log("fun2 : "+fun2+" is maximum");
 }else if(fun3>fun4){
-    console.log("fun3 : "+fun3+" is maximum")
+    console.log("fun3 : "+fun3+" is maximum");
 }else{
-    console.log("fun4: "+fun4+" is maximum")
+    console.log("fun4: "+fun4+" is maximum");
 }
 
 //finding minimum
 if(fun1<fun2&&fun1<fun3&&fun1<fun4){
     console.log("fun1 :"+fun1+" is minimum");
 }else if(fun2<fun3&&fun2<fun4){
-    console.log("fun2 : "+fun2+" is minimum")
+    console.log("fun2 : "+fun2+" is minimum");
 }else if(fun3<fun4){
-    console.log("fun3 : "+fun3+" is minimum")
+    console.log("fun3 : "+fun3+" is minimum");
 }else{
-    console.log("fun4"+fun4+" is minimum")
+    console.log("fun4"+fun4+" is minimum");
 }
